@@ -2,6 +2,6 @@
 
 		RC522的原理
 		
-![image](http://github.com/210843013/RC522/master/rcc522.png)
-![image](http://github.com/210843013/RC522/master/fuction1.png)
-![image](http://github.com/210843013/RC522/master/fuction2.png)
+![image](https://github.com/210843013/RC522/blob/master/rcc522.png)
+![image](https://github.com/210843013/RC522/blob/master/fuction1.png)
+![image](https://github.com/210843013/RC522/blob/master/fuction2.png)
