@@ -17,5 +17,8 @@
 		6--GND <----->GND
 		7--RST(CE) <----->PG6
 		8--VCC <----->VCC
+		
+		
+		
 ![image](https://github.com/210843013/RC522/blob/master/result.png)
 ![image](https://github.com/210843013/RC522/blob/master/result1.png)
